@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570017399 source:d:\software\code_block\es\es7\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
